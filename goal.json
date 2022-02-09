@@ -1,0 +1,140 @@
+[
+  {
+    "name": "loose 15 lbs",
+    "goalType": "fitness",
+    "percentageCompleted": 50,
+    "deadlineInDays": 90,
+    "completed": false
+  },
+  {
+    "name": "do 500 pushups in a week",
+    "goalType": "fitness",
+    "percentageCompleted": 50,
+    "deadlineInDays": 7,
+    "completed": false
+  },
+  {
+    "name": "do 100 pullups in a week",
+    "goalType": "fitness",
+    "percentageCompleted": 75,
+    "deadlineInDays": 7,
+    "completed": false
+  },
+
+  {
+    "name": "run 50 miles in a week",
+    "goalType": "fitness",
+    "deadlineInDays": 7,
+    "completed": true
+  },
+  {
+    "name": "do 100 squats in a week",
+    "goalType": "fitness",
+    "deadlineInDays": 7,
+    "completed": false
+  },
+  {
+    "name": "read a new programming book",
+    "goalType": "educational",
+    "percentageCompleted": 10,
+    "deadlineInDays": 30,
+    "completed": false
+  },
+  {
+    "name": "complete an udemy tutorial on Javascript",
+    "goalType": "educational",
+    "percentageCompleted": 80,
+    "deadlineInDays": 60,
+    "completed": false
+  },
+  {
+    "name": "complete an udemy tutorial on REACT.JS",
+    "goalType": "educational",
+    "deadlineInDays": 60,
+    "completed": false
+  },
+  {
+    "name": "complete Bachelors Degree ",
+    "goalType": "educational",
+    "deadlineInDays": 730,
+    "completed": false
+  },
+  {
+    "name": "create a Youtube tutorial",
+    "goalType": "educational",
+    "deadlineInDays": 30,
+    "completed": false
+  },
+
+  {
+    "name": "create a portofolio Website",
+    "goalType": "educational",
+    "deadlineInDays": 30,
+    "completed": true
+  },
+
+  {
+    "name": "call 3 old friends",
+    "goalType": "personal",
+    "percentageCompleted": 33,
+    "deadlineInDays": 14,
+    "completed": false
+  },
+  {
+    "name": "take family to a museum",
+    "goalType": "personal",
+    "deadlineInDays": 30,
+    "completed": false
+  },
+  {
+    "name": "spend  1 hr a week playing board games with family ",
+    "goalType": "personal",
+    "deadlineInDays": 14,
+    "completed": false
+  },
+  {
+    "name": "walk my dogs 3 times a week",
+    "goalType": "personal",
+    "percentageCompleted": 66,
+    "deadlineInDays": 7,
+    "completed": false
+  },
+  {
+    "name": "spend $100  in tech stocks",
+    "goalType": "financial",
+    "deadlineInDays": 30,
+    "completed": true
+  },
+  {
+    "name": "save $75 a week for 1 year",
+    "goalType": "financial",
+    "deadlineInDays": 365,
+    "completed": false
+  },
+  {
+    "name": "get partime weekend job to save $3,000 in 4 months",
+    "goalType": "financial",
+    "deadlineInDays": 120,
+    "completed": false
+  },
+  {
+    "name": "lower utility bills by turinig lights off daily",
+    "goalType": "financial",
+    "deadlineInDays": 120,
+    "completed": false
+  },
+  {
+    "name": "call parents atleast 3 times a week for a year",
+    "goalType": "personal",
+    "percentageCompleted": 33,
+    "deadlineInDays": 365,
+    "completed": false
+  },
+
+  {
+    "name": "wakeup at 5:30am  daily  or earlier to exercies",
+    "goalType": "fitness",
+    "deadlineInDays": 365,
+    "completed": false
+  }
+]
